@@ -41,6 +41,13 @@ Exits the program.
 ```
 $ make
 ```
+- Execute
+```
+$ ./ssu_cleanup
+20232372>
+20232372> exit
+$
+```
 - Remove
 ```
  $ make clean
